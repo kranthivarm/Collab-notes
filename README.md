@@ -19,7 +19,6 @@
 - **Backend**: Node.js + Express.js  
 - **Database**: MongoDB  
 - **Authentication**: JWT (JSON Web Tokens)  
-- **Realtime Collaboration**: WebSockets / Socket.io  
 
 ---
 
