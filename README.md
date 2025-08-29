@@ -21,5 +21,3 @@
 - **Authentication**: JWT (JSON Web Tokens)  
 
 ---
-
-## 📂 Project Structure  
